@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/16f3151e-63ba-49b6-bf02-cbc4af9e5fab/resourceGroups/CIGWeb_group/providers/Microsoft.Web/sites/ConsultingInternationalgroupMVC",
+    "appService.deploySubpath": "publish"
+}
