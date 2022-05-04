@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UmaEBl6/z6FAeXfjrH20jBjtMvT+7IKKmfdwD1DaXTc=",
+  "Hash": "il7jHm1+3PrIW+2oAnXEfmU/jbY/K/BuQZyLQJD1ZYI=",
   "Source": "ConsultingInternationalGroupMVC",
   "BasePath": "_content/ConsultingInternationalGroupMVC",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\index.html",
-      "SourceId": "ConsultingInternationalGroupMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
-      "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\js\\site.js",
