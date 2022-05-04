@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EOglQwHdoJgqSp2cgc1KJVZsowIH69PbfiAutsK5a3M=",
+  "Hash": "aCJ1o3KhjX9j9erRCqS/NP6OjIZ1sjSYxKd88NPRZn8=",
   "Source": "ConsultingInternationalGroupMVC",
   "BasePath": "_content/ConsultingInternationalGroupMVC",
   "Mode": "Default",
@@ -1785,12 +1785,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-image-icon-plus.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-image-icon-plus.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-image-icon-plus.png",
+      "RelativePath": "lib/image/_footer-image-icon-plus.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1799,15 +1799,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-image-icon-plus.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-image-icon-plus.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-image-icon-plus@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-image-icon-plus@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-image-icon-plus@2x.png",
+      "RelativePath": "lib/image/_footer-image-icon-plus@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,15 +1816,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-image-icon-plus@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-image-icon-plus@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-1.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1833,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-1@2x.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,15 +1850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-2.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,15 +1867,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-2@2x.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1884,15 +1884,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-3.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1901,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-3@2x.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1918,15 +1918,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-4.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-4.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-4.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1935,15 +1935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-4.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-4.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-4@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-4@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-4@2x.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-4@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +1952,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-4@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-4@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-5.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-5.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-5.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-5.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-5.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-5@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-5@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-5@2x.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-5@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-5@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-5@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-6.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-6.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-6.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-6.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-6.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_footer-widget-image-6@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_footer-widget-image-6@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_footer-widget-image-6@2x.jpg",
+      "RelativePath": "lib/image/_footer-widget-image-6@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_footer-widget-image-6@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_footer-widget-image-6@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_photo-in-iMac-why-choose.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_photo-in-iMac-why-choose.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_photo-in-iMac-why-choose.jpg",
+      "RelativePath": "lib/image/_photo-in-iMac-why-choose.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,15 +2037,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_photo-in-iMac-why-choose.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_photo-in-iMac-why-choose.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_photo-in-iMac-why-choose@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_photo-in-iMac-why-choose@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_photo-in-iMac-why-choose@2x.jpg",
+      "RelativePath": "lib/image/_photo-in-iMac-why-choose@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2054,15 +2054,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_photo-in-iMac-why-choose@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_photo-in-iMac-why-choose@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-achievements-background.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-achievements-background.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-achievements-background.jpg",
+      "RelativePath": "lib/image/_separator-achievements-background.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2071,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-achievements-background.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-achievements-background.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-achievements-background@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-achievements-background@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-achievements-background@2x.jpg",
+      "RelativePath": "lib/image/_separator-achievements-background@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,15 +2088,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-achievements-background@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-achievements-background@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-notification-background.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-notification-background.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-notification-background.jpg",
+      "RelativePath": "lib/image/_separator-notification-background.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2105,15 +2105,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-notification-background.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-notification-background.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-notification-background@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-notification-background@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-notification-background@2x.jpg",
+      "RelativePath": "lib/image/_separator-notification-background@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2122,15 +2122,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-notification-background@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-notification-background@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-progress-background.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-progress-background.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-progress-background.jpg",
+      "RelativePath": "lib/image/_separator-progress-background.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2139,15 +2139,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-progress-background.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-progress-background.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-progress-background@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-progress-background@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-progress-background@2x.jpg",
+      "RelativePath": "lib/image/_separator-progress-background@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,15 +2156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-progress-background@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-progress-background@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-quotation-background.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-quotation-background.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-quotation-background.jpg",
+      "RelativePath": "lib/image/_separator-quotation-background.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2173,15 +2173,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-quotation-background.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-quotation-background.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\_separator-quotation-background@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\_separator-quotation-background@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/_separator-quotation-background@2x.jpg",
+      "RelativePath": "lib/image/_separator-quotation-background@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2190,15 +2190,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\_separator-quotation-background@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\_separator-quotation-background@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\about-image.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\about-image.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/about-image.jpg",
+      "RelativePath": "lib/image/about-image.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2207,15 +2207,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\about-image.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\about-image.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\about-image@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\about-image@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/about-image@2x.jpg",
+      "RelativePath": "lib/image/about-image@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2224,15 +2224,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\about-image@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\about-image@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-author-person-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-author-person-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-author-person-1.jpg",
+      "RelativePath": "lib/image/blog-author-person-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2241,15 +2241,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-author-person-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-author-person-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-author-person-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-author-person-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-author-person-1@2x.jpg",
+      "RelativePath": "lib/image/blog-author-person-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2258,15 +2258,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-author-person-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-author-person-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-1.jpg",
+      "RelativePath": "lib/image/blog-comments-person-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2275,15 +2275,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-1@2x.jpg",
+      "RelativePath": "lib/image/blog-comments-person-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2292,15 +2292,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-2.jpg",
+      "RelativePath": "lib/image/blog-comments-person-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2309,15 +2309,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-2@2x.jpg",
+      "RelativePath": "lib/image/blog-comments-person-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2326,15 +2326,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-3.jpg",
+      "RelativePath": "lib/image/blog-comments-person-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2343,15 +2343,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-3@2x.jpg",
+      "RelativePath": "lib/image/blog-comments-person-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2360,15 +2360,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-4.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-4.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-4.jpg",
+      "RelativePath": "lib/image/blog-comments-person-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2377,15 +2377,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-4.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-4.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-comments-person-4@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-comments-person-4@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-comments-person-4@2x.jpg",
+      "RelativePath": "lib/image/blog-comments-person-4@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2394,15 +2394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-comments-person-4@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-comments-person-4@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-1.jpg",
+      "RelativePath": "lib/image/blog-image-post-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2411,15 +2411,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-1@2x.jpg",
+      "RelativePath": "lib/image/blog-image-post-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2428,15 +2428,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-2.jpg",
+      "RelativePath": "lib/image/blog-image-post-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2445,15 +2445,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-2@2x.jpg",
+      "RelativePath": "lib/image/blog-image-post-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2462,15 +2462,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-3.jpg",
+      "RelativePath": "lib/image/blog-image-post-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2479,15 +2479,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-3@2x.jpg",
+      "RelativePath": "lib/image/blog-image-post-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2496,15 +2496,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-4.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-4.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-4.jpg",
+      "RelativePath": "lib/image/blog-image-post-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2513,15 +2513,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-4.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-4.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\blog-image-post-4@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\blog-image-post-4@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/blog-image-post-4@2x.jpg",
+      "RelativePath": "lib/image/blog-image-post-4@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2530,15 +2530,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\blog-image-post-4@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\blog-image-post-4@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-1.jpg",
+      "RelativePath": "lib/image/gallery-image-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2547,15 +2547,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-1@2x.jpg",
+      "RelativePath": "lib/image/gallery-image-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2564,15 +2564,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-2.jpg",
+      "RelativePath": "lib/image/gallery-image-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2581,15 +2581,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-2@2x.jpg",
+      "RelativePath": "lib/image/gallery-image-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2598,15 +2598,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-3.jpg",
+      "RelativePath": "lib/image/gallery-image-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2615,15 +2615,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-3@2x.jpg",
+      "RelativePath": "lib/image/gallery-image-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2632,15 +2632,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-4.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-4.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-4.jpg",
+      "RelativePath": "lib/image/gallery-image-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2649,15 +2649,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-4.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-4.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-4@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-4@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-4@2x.jpg",
+      "RelativePath": "lib/image/gallery-image-4@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2666,15 +2666,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-4@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-4@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-5.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-5.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-5.jpg",
+      "RelativePath": "lib/image/gallery-image-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2683,15 +2683,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-5.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-5.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-5@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-5@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-5@2x.jpg",
+      "RelativePath": "lib/image/gallery-image-5@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2700,15 +2700,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-5@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-5@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-icon-plus.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-icon-plus.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-icon-plus.png",
+      "RelativePath": "lib/image/gallery-image-icon-plus.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2717,15 +2717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-icon-plus.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-icon-plus.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\gallery-image-icon-plus@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\gallery-image-icon-plus@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/gallery-image-icon-plus@2x.png",
+      "RelativePath": "lib/image/gallery-image-icon-plus@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2734,15 +2734,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\gallery-image-icon-plus@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\gallery-image-icon-plus@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\icon.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\icon.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/icon.png",
+      "RelativePath": "lib/image/icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2751,15 +2751,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\icon.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\icon.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\icon@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\icon@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/icon@2x.png",
+      "RelativePath": "lib/image/icon@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2768,15 +2768,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\icon@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\icon@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\image-posted-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\image-posted-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/image-posted-1.jpg",
+      "RelativePath": "lib/image/image-posted-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2785,15 +2785,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\image-posted-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\image-posted-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\image-posted-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\image-posted-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/image-posted-1@2x.jpg",
+      "RelativePath": "lib/image/image-posted-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2802,15 +2802,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\image-posted-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\image-posted-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\image-posted-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\image-posted-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/image-posted-2.jpg",
+      "RelativePath": "lib/image/image-posted-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2819,15 +2819,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\image-posted-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\image-posted-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\image-posted-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\image-posted-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/image-posted-2@2x.jpg",
+      "RelativePath": "lib/image/image-posted-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2836,15 +2836,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\image-posted-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\image-posted-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\image-posted-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\image-posted-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/image-posted-3.jpg",
+      "RelativePath": "lib/image/image-posted-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2853,15 +2853,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\image-posted-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\image-posted-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\image-posted-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\image-posted-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/image-posted-3@2x.jpg",
+      "RelativePath": "lib/image/image-posted-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2870,15 +2870,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\image-posted-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\image-posted-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-bbpress.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-bbpress.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-bbpress.png",
+      "RelativePath": "lib/image/logo-bbpress.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2887,15 +2887,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-bbpress.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-bbpress.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-bbpress@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-bbpress@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-bbpress@2x.png",
+      "RelativePath": "lib/image/logo-bbpress@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2904,15 +2904,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-bbpress@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-bbpress@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-envato.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-envato.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-envato.png",
+      "RelativePath": "lib/image/logo-envato.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2921,15 +2921,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-envato.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-envato.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-envato@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-envato@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-envato@2x.png",
+      "RelativePath": "lib/image/logo-envato@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2938,15 +2938,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-envato@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-envato@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-footer-2.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-footer-2.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-footer-2.png",
+      "RelativePath": "lib/image/logo-footer-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2955,15 +2955,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-footer-2.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-footer-2.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-footer-2@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-footer-2@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-footer-2@2x.png",
+      "RelativePath": "lib/image/logo-footer-2@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2972,15 +2972,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-footer-2@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-footer-2@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-footer.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-footer.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-footer.png",
+      "RelativePath": "lib/image/logo-footer.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2989,15 +2989,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-footer.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-footer.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-footer@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-footer@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-footer@2x.png",
+      "RelativePath": "lib/image/logo-footer@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3006,15 +3006,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-footer@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-footer@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-jquery.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-jquery.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-jquery.png",
+      "RelativePath": "lib/image/logo-jquery.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3023,15 +3023,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-jquery.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-jquery.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-jquery@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-jquery@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-jquery@2x.png",
+      "RelativePath": "lib/image/logo-jquery@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3040,15 +3040,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-jquery@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-jquery@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-slider.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-slider.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-slider.png",
+      "RelativePath": "lib/image/logo-slider.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3057,15 +3057,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-slider.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-slider.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-slider@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-slider@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-slider@2x.png",
+      "RelativePath": "lib/image/logo-slider@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3074,15 +3074,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-slider@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-slider@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-themeforest.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-themeforest.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-themeforest.png",
+      "RelativePath": "lib/image/logo-themeforest.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3091,15 +3091,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-themeforest.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-themeforest.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-themeforest@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-themeforest@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-themeforest@2x.png",
+      "RelativePath": "lib/image/logo-themeforest@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3108,15 +3108,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-themeforest@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-themeforest@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-woocommerce.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-woocommerce.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-woocommerce.png",
+      "RelativePath": "lib/image/logo-woocommerce.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3125,15 +3125,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-woocommerce.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-woocommerce.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo-woocommerce@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo-woocommerce@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo-woocommerce@2x.png",
+      "RelativePath": "lib/image/logo-woocommerce@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3142,15 +3142,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo-woocommerce@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo-woocommerce@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo.png",
+      "RelativePath": "lib/image/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3159,15 +3159,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\logo@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\logo@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/logo@2x.png",
+      "RelativePath": "lib/image/logo@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3176,15 +3176,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\logo@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\logo@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-1.jpg",
+      "RelativePath": "lib/image/portfolio-image-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3193,15 +3193,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-1@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3210,15 +3210,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-2.jpg",
+      "RelativePath": "lib/image/portfolio-image-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3227,15 +3227,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-2@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3244,15 +3244,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-3.jpg",
+      "RelativePath": "lib/image/portfolio-image-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3261,15 +3261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-3@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3278,15 +3278,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-4.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-4.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-4.jpg",
+      "RelativePath": "lib/image/portfolio-image-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3295,15 +3295,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-4.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-4.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-4@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-4@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-4@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-4@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3312,15 +3312,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-4@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-4@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-5.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-5.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-5.jpg",
+      "RelativePath": "lib/image/portfolio-image-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3329,15 +3329,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-5.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-5.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-5@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-5@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-5@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-5@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3346,15 +3346,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-5@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-5@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-6.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-6.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-6.jpg",
+      "RelativePath": "lib/image/portfolio-image-6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3363,15 +3363,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-6.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-6.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-6@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-6@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-6@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-6@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3380,15 +3380,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-6@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-6@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-7.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-7.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-7.jpg",
+      "RelativePath": "lib/image/portfolio-image-7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3397,15 +3397,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-7.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-7.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-7@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-7@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-7@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-7@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3414,15 +3414,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-7@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-7@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-8.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-8.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-8.jpg",
+      "RelativePath": "lib/image/portfolio-image-8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3431,15 +3431,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-8.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-8.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\portfolio-image-8@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\portfolio-image-8@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/portfolio-image-8@2x.jpg",
+      "RelativePath": "lib/image/portfolio-image-8@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3448,15 +3448,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\portfolio-image-8@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\portfolio-image-8@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-image-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-image-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-image-1.jpg",
+      "RelativePath": "lib/image/slider-image-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3465,15 +3465,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-image-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-image-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-image-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-image-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-image-1@2x.jpg",
+      "RelativePath": "lib/image/slider-image-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3482,15 +3482,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-image-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-image-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-image-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-image-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-image-2.jpg",
+      "RelativePath": "lib/image/slider-image-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3499,15 +3499,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-image-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-image-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-image-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-image-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-image-2@2x.jpg",
+      "RelativePath": "lib/image/slider-image-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3516,15 +3516,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-image-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-image-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-image-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-image-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-image-3.jpg",
+      "RelativePath": "lib/image/slider-image-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3533,15 +3533,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-image-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-image-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-image-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-image-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-image-3@2x.jpg",
+      "RelativePath": "lib/image/slider-image-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3550,15 +3550,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-image-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-image-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-patern-background.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-patern-background.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-patern-background.png",
+      "RelativePath": "lib/image/slider-patern-background.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3567,15 +3567,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-patern-background.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-patern-background.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\slider-patern-background@2x.png",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\slider-patern-background@2x.png",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/slider-patern-background@2x.png",
+      "RelativePath": "lib/image/slider-patern-background@2x.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3584,15 +3584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\slider-patern-background@2x.png"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\slider-patern-background@2x.png"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-1.jpg",
+      "RelativePath": "lib/image/team-image-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3601,15 +3601,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-1@2x.jpg",
+      "RelativePath": "lib/image/team-image-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3618,15 +3618,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-2.jpg",
+      "RelativePath": "lib/image/team-image-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3635,15 +3635,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-2@2x.jpg",
+      "RelativePath": "lib/image/team-image-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3652,15 +3652,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-3.jpg",
+      "RelativePath": "lib/image/team-image-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3669,15 +3669,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-3@2x.jpg",
+      "RelativePath": "lib/image/team-image-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3686,15 +3686,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-4.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-4.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-4.jpg",
+      "RelativePath": "lib/image/team-image-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3703,15 +3703,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-4.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-4.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\team-image-4@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\team-image-4@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/team-image-4@2x.jpg",
+      "RelativePath": "lib/image/team-image-4@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3720,15 +3720,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\team-image-4@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\team-image-4@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-1.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-1.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-1.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3737,15 +3737,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-1.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-1.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-1@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-1@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-1@2x.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-1@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3754,15 +3754,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-1@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-1@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-2.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-2.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-2.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3771,15 +3771,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-2.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-2.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-2@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-2@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-2@2x.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-2@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3788,15 +3788,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-2@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-2@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-3.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-3.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-3.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3805,15 +3805,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-3.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-3.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-3@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-3@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-3@2x.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-3@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3822,15 +3822,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-3@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-3@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-4.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-4.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-4.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3839,15 +3839,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-4.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-4.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-4@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-4@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-4@2x.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-4@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3856,15 +3856,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-4@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-4@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-5.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-5.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-5.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3873,15 +3873,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-5.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-5.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-5@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-5@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-5@2x.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-5@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3890,15 +3890,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-5@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-5@2x.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-6.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-6.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-6.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3907,15 +3907,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-6.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-6.jpg"
     },
     {
-      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\images\\wiget-posted-recent-image-6@2x.jpg",
+      "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\image\\wiget-posted-recent-image-6@2x.jpg",
       "SourceId": "ConsultingInternationalGroupMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\",
       "BasePath": "_content/ConsultingInternationalGroupMVC",
-      "RelativePath": "lib/images/wiget-posted-recent-image-6@2x.jpg",
+      "RelativePath": "lib/image/wiget-posted-recent-image-6@2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3924,7 +3924,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\images\\wiget-posted-recent-image-6@2x.jpg"
+      "OriginalItemSpec": "wwwroot\\lib\\image\\wiget-posted-recent-image-6@2x.jpg"
     },
     {
       "Identity": "C:\\git\\ConsultingInternationalGroupMVC\\wwwroot\\lib\\img\\1-Gallon-case.jpg",
