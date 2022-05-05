@@ -170,20 +170,20 @@ body body > div {
   overflow: hidden;
 }
 .hint--primary:after {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
   text-shadow: 0 -1px 0px #6c5328;
 }
 .hint--primary.hint--top:before {
-  border-top-color: rgb(91, 146, 55);
+  border-top-color: rgb(255, 0, 0);
 }
 .hint--primary.hint--bottom:before {
-  border-bottom-color: rgb(91, 146, 55);
+  border-bottom-color: rgb(255, 0, 0);
 }
 .hint--primary.hint--left:before {
-  border-left-color: rgb(91, 146, 55);
+  border-left-color: rgb(255, 0, 0);
 }
 .hint--primary.hint--right:before {
-  border-right-color: rgb(91, 146, 55);
+  border-right-color: rgb(255, 0, 0);
 }
 p {
   font-size: 1em;
@@ -267,14 +267,14 @@ textarea:focus {
   margin: 0 48%;
   margin-top: -3px;
   border-radius: 50%;
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
 }
 .line-separator-full {
   height: 1px;
   width: 100%;
   margin: 80px 15px;
   text-align: center;
-  background-color: rgb(19, 22, 93);
+  background-color: rgb(93, 19, 19);
 }
 .line-separator-full span {
   width: 7px;
@@ -283,7 +283,7 @@ textarea:focus {
   margin: 0 48%;
   margin-top: -3px;
   border-radius: 50%;
-  background: rgb(91, 146, 55);;
+  background: rgb(255, 0, 0);;
 }
 .padding-in-box {
   padding-top: 130px;
@@ -359,7 +359,7 @@ button {
   color: rgb(19, 22, 93);
 }
 .text-secondary {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .btn-default,
 .btn-primary,
@@ -411,7 +411,7 @@ button {
 .btn-default:hover,
 .btn-default:focus {
   color: #ffffff;
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
 }
 .btn-default:active,
 .btn-default.active {
@@ -424,34 +424,34 @@ button {
 }
 .btn-primary:hover,
 .btn-primary:focus {
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
   color: #fff;
   border: 1px solid rgb(19, 22, 93);
 }
 .btn-primary:active,
 .btn-primary.active {
   background: #ffffff;
-  color: rgb(91, 146, 55);
-  border: 1px solid rgb(91, 146, 55);
-  box-shadow: 0 0 10px 1px rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
+  border: 1px solid rgb(255, 0, 0);
+  box-shadow: 0 0 10px 1px rgb(255, 0, 0);
 }
 .btn-primary-inverse {
   box-shadow: none;
   background: #ffffff;
-  color: rgb(91, 146, 55);
-  border-color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
+  border-color: rgb(255, 0, 0);
 }
 .btn-primary-inverse:hover,
 .btn-primary-inverse:focus {
   color: #ffffff;
   border-color: #ffffff;
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
 }
 .btn-primary-inverse:active,
 .btn-primary-inverse.active {
   color: #ffffff;
   border-color: #ffffff;
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
   box-shadow: 0 0 10px 1px #ffffff;
 }
 .btn-secondary {
@@ -675,10 +675,10 @@ button {
   background-color: #ffffff;
 }
 .progress-bar {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 .progress-bar-primary {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 .progress-bar-success {
   background-image: -webkit-linear-gradient(top, #5cb85c 0%, #449d44 100%);
@@ -838,13 +838,13 @@ html > body > .component-blog-post .container-primary .container .row > .details
   border: 1px solid #d1d1d1;
 }
 html > body > .component-blog-post .container-primary .container .row > .details-posts .social-icon-posts ul li:hover {
-  border-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .details-posts .social-icon-posts ul li:hover a span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .details-posts .social-icon-posts ul li:active {
-  box-shadow: 0 0 9px 0 rgb(91, 146, 55);
+  box-shadow: 0 0 9px 0 rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .details-posts .social-icon-posts ul li:first-child {
   -webkit-border-radius: 7px 7px 0 0;
@@ -909,7 +909,7 @@ html > body > .component-blog-post .container-primary .container .row > .post-ar
 html > body > .component-blog-post .container-primary .container .row > .post-article .container-article .text-contain .list-items li div span {
   font-size: 1em;
   padding-right: 5px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .post-article .container-article .text-contain .list-items li p {
   margin-bottom: 5px;
@@ -928,7 +928,7 @@ html > body > .component-blog-post .container-primary .container .row > .post-ar
   top: 15px;
   left: 20px;
   position: absolute;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .post-article .container-article .text-contain blockquote.block-quote-secondary .quote span {
   font-size: 50px;
@@ -984,7 +984,7 @@ html > body > .component-blog-post .container-primary .container .row > .post-ar
 }
 html > body > .component-blog-post .container-primary .container .row > .post-article .author-about .about .read-more {
   font-weight: 500;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .post-article .author-about .about .read-more:hover span {
   margin-left: 15px;
@@ -1006,10 +1006,10 @@ html > body > .component-blog-post .container-primary .container .row > .comment
   border-color: #d8d8d8;
 }
 html > body > .component-blog-post .container-primary .container .row > .comments-and-post .container-comments .comments:hover .about .name {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .comments-and-post .container-comments .comments:hover .about .reply {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-blog-post .container-primary .container .row > .comments-and-post .container-comments .comments .image-contain {
   top: -40px;
@@ -1146,8 +1146,8 @@ html > body > .component-blog-post .container-primary .container .row > .comment
   display: inline-block;
 }
 .component-blog-post-slider .container > .row .post-article .slider-posted .carousel .control-arrow a:hover .control {
-  border-color: rgb(91, 146, 55);
-  background-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
+  background-color: rgb(255, 0, 0);
 }
 .component-blog-post-slider .container > .row .post-article .slider-posted .carousel .control-arrow a .control {
   width: 35px;
@@ -1239,7 +1239,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-blog-post-slider .container > .row .post-article > .row .container-article .read-more {
   font-weight: 500;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-blog-post-slider .container > .row .post-article > .row .container-article .read-more:hover span {
   margin-left: 15px;
@@ -1327,7 +1327,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-blog-post-image .container > .row .post-article > .row .container-article .read-more {
   font-weight: 500;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-blog-post-image .container > .row .post-article > .row .container-article .read-more:hover span {
   margin-left: 15px;
@@ -1416,7 +1416,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-blog-post-video-1 .container > .row .post-article > .row .container-article .read-more {
   font-weight: 500;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-blog-post-video-1 .container > .row .post-article > .row .container-article .read-more:hover span {
   margin-left: 15px;
@@ -1505,7 +1505,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-blog-post-video-2 .container > .row .post-article > .row .container-article .read-more {
   font-weight: 500;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-blog-post-video-2 .container > .row .post-article > .row .container-article .read-more:hover span {
   margin-left: 15px;
@@ -1594,7 +1594,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-blog-post-text .container > .row .post-article > .row .container-article .read-more {
   font-weight: 500;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-blog-post-text .container > .row .post-article > .row .container-article .read-more:hover span {
   margin-left: 15px;
@@ -1696,7 +1696,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-blog-post-quote .container > .row .post-article > .row .container-article .read-more {
   font-weight: 500;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-blog-post-quote .container > .row .post-article > .row .container-article .read-more:hover span {
   margin-left: 15px;
@@ -1757,7 +1757,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
   padding: 10px 0;
 }
 .component-widgets .container .row > div.widgets-categories .content ul li:hover {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 .component-widgets .container .row > div.widgets-categories .content ul li:hover a {
   color: #ffffff;
@@ -1771,7 +1771,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-widgets .container .row > div.widgets-categories .content ul li a span {
   padding: 0 5px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-widgets .container .row > div.widgets-recent-posts .content ul li {
   margin: 10px 0;
@@ -1781,7 +1781,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
   opacity: 0.7;
 }
 .component-widgets .container .row > div.widgets-recent-posts .content ul li:hover .description {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-widgets .container .row > div.widgets-recent-posts .content ul li img {
   float: left;
@@ -1797,7 +1797,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
   padding: 10px 0;
 }
 .component-widgets .container .row > div.widgets-archives .content ul li:hover a {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-widgets .container .row > div.widgets-archives .content ul li:hover a span {
   padding-right: 10px;
@@ -1808,7 +1808,7 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-widgets .container .row > div.widgets-archives .content ul li a span {
   padding: 0 5px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 .component-widgets .container .row > div.widgets-archives .content ul li:last-child {
   padding-bottom: 0;
@@ -1819,8 +1819,8 @@ html > body > .component-blog-post .container-primary .container .row > .comment
 }
 .component-widgets .container .row > div.widgets-tag .content ul li:hover a {
   color: #ffffff;
-  border-color: rgb(91, 146, 55);
-  background-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
+  background-color: rgb(255, 0, 0);
 }
 .component-widgets .container .row > div.widgets-tag .content ul li a {
   color: #929292;
@@ -1851,8 +1851,8 @@ html > body > .component-portfolio .content-portfolio .portfolio-venus .portfoli
 }
 html > body > .component-portfolio .content-portfolio .portfolio-venus .portfolio-venus-filter li a:hover {
   color: #ffffff;
-  border-color: rgb(91, 146, 55);
-  background-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-portfolio .content-portfolio .portfolio-venus .portfolio-venus-filter li a:focus {
   text-decoration: none;
@@ -2363,10 +2363,10 @@ html > body > .component-element-accordions .container .row > div .panel-group.a
   background-color: #ffffff;
 }
 html > body > .component-element-accordions .container .row > div .panel-group.accordion-inversee .panel .panel-heading:hover .panel-title a {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-accordions .container .row > div .panel-group.accordion-inversee .panel .panel-heading .panel-title a span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div {
   margin: 50px 0;
@@ -2383,37 +2383,37 @@ html > body > .component-element-tabs .container .row > div .tab.tab-2 .nav-tabs
   border-right: 1px solid #edebeb;
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-2 .nav-tabs > li.active:hover a span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-2 .nav-tabs > li:hover a {
-  color: rgb(91, 146, 55);
-  border-color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
+  border-color: rgb(255, 0, 0);
   background-color: #ffffff;
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-2 .nav-tabs > li:hover a span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-2 .nav-tabs > li > a {
   color: #ffffff;
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs > li.active a,
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs > li.active:hover a {
-  border-top: 1px solid rgb(91, 146, 55);
-  border-left: 1px solid rgb(91, 146, 55);
-  border-right: 1px solid rgb(91, 146, 55);
+  border-top: 1px solid rgb(255, 0, 0);
+  border-left: 1px solid rgb(255, 0, 0);
+  border-right: 1px solid rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs > li.active a span,
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs > li.active:hover a span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs > li:hover a {
-  color: rgb(91, 146, 55);
-  border-color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
+  border-color: rgb(255, 0, 0);
   background-color: #ffffff;
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs > li:hover a span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs > li > a {
   border: 1px solid #edebeb;
@@ -2421,7 +2421,7 @@ html > body > .component-element-tabs .container .row > div .tab.tab-3 .nav-tabs
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .tab-content .tab-pane {
   background-color: #ffffff;
-  border: 1px solid rgb(91, 146, 55);
+  border: 1px solid rgb(255, 0, 0);
 }
 html > body > .component-element-tabs .container .row > div .tab.tab-3 .tab-content .tab-pane p:last-child {
   margin-bottom: 0;
@@ -2447,7 +2447,7 @@ html > body > .component-element-tabs .container .row > div .tab .nav-tabs > li.
   padding-top: 16px;
   border-bottom: none;
   padding-bottom: 17px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
   background-color: #ffffff;
   border-top: 1px solid #edebeb;
   border-left: 1px solid #edebeb;
@@ -2497,7 +2497,7 @@ html > body > .component-element-block-quote .container .row > div blockquote .q
   top: 15px;
   left: 20px;
   position: absolute;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-block-quote .container .row > div blockquote .quote span {
   font-size: 50px;
@@ -2511,7 +2511,7 @@ html > body > .component-element-block-quote .container .row > div blockquote p 
 html > body > .component-element-block-quote .container .row > div blockquote.block-quote-primary {
   border: none;
   color: #ffffff;
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-element-block-quote .container .row > div blockquote.block-quote-primary .quote {
   color: #ffffff;
@@ -2525,7 +2525,7 @@ html > body > .component-element-block-quote .container .row > div blockquote.bl
   background-color: #545454;
 }
 html > body > .component-element-block-quote .container .row > div blockquote.block-quote-secondary .quote {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-block-quote .container .row > div blockquote.block-quote-secondary p {
   color: #ffffff;
@@ -2550,7 +2550,7 @@ html > body > .component-element-social-icons .container .content ul.social-icon
   opacity: 0;
 }
 html > body > .component-element-social-icons .container .content ul.social-icon li:hover {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-element-social-icons .container .content ul.social-icon li:hover a span {
   color: #ffffff;
@@ -2587,7 +2587,7 @@ html > body > .component-element-social-icons .container .content ul.social-icon
   line-height: 40px;
 }
 html > body > .component-subscription {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-subscription .container form {
   margin: 0;
@@ -2632,13 +2632,13 @@ html > body > .component-subscription .container form .row div .button-action {
   width: 100%;
   height: 100%;
   background: #ffffff;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
   border: 1px solid #ffffff;
 }
 html > body > .component-subscription .container form .row div .button-action:hover {
   color: #ffffff;
   border-color: #ffffff;
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
 }
 html > body > .component-typography-heading .container .row > div {
   margin-bottom: 50px;
@@ -2666,7 +2666,7 @@ html > body > .component-element-list-items .container .contain .row > div ul li
 }
 html > body > .component-element-list-items .container .contain .row > div ul li div span {
   font-size: 1em;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-element-list-items .container .contain .row > div ul li p {
   display: inline-block;
@@ -2706,7 +2706,7 @@ html > body > .component-milestone-counters-1 .container .row > div > p.picture 
 }
 html > body > .component-milestone-counters-1 .container .row > div > p.picture span {
   font-size: 4.3em;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-milestone-counters-1 .container .row > div > p.number {
   margin: 0 0 20px 0;
@@ -2721,7 +2721,7 @@ html > body > .component-milestone-counters-1 .container .row > div > p.name spa
   font-weight: 600;
 }
 html > body > .component-milestone-counters-1 .container .row > div:hover {
-  border-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-milestone-counters-2 .container .title h2 {
   margin: 0;
@@ -2742,7 +2742,7 @@ html > body > .component-milestone-counters-2 .container .row > div > p.picture 
 }
 html > body > .component-milestone-counters-2 .container .row > div > p.picture span {
   font-size: 4.3em;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-milestone-counters-2 .container .row > div > p.name {
   margin: 0 0 20px 0;
@@ -2758,22 +2758,22 @@ html > body > .component-milestone-counters-2 .container .row > div > p.number s
   font-weight: 600;
 }
 html > body > .component-milestone-counters-2 .container .row > div:hover {
-  border-color: rgb(91, 146, 55);;
+  border-color: rgb(255, 0, 0);;
 }
 html > body > .component-boxes-style-1 .container .row div {
   text-align: center;
 }
 html > body > .component-boxes-style-1 .container .row div:hover .icon {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-1 .container .row div:hover .icon span {
   color: #ffffff;
 }
 html > body > .component-boxes-style-1 .container .row div:hover .icon .arrow-bar:after {
-  border-top-color: rgb(91, 146, 55);
+  border-top-color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-1 .container .row div:hover .icon .arrow-bar:before {
-  border-top-color: rgb(91, 146, 55);
+  border-top-color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-1 .container .row div .icon {
   width: 70px;
@@ -2794,7 +2794,7 @@ html > body > .component-boxes-style-1 .container .row div .icon.hint--top:after
 html > body > .component-boxes-style-1 .container .row div .icon span {
   font-size: 2em;
   line-height: 70px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-1 .container .row div .icon .arrow-bar {
   margin-top: -2px;
@@ -2830,16 +2830,16 @@ html > body > .component-boxes-style-2 .container .row div {
   text-align: center;
 }
 html > body > .component-boxes-style-2 .container .row div:hover .icon {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-2 .container .row div:hover .icon span {
   color: #ffffff;
 }
 html > body > .component-boxes-style-2 .container .row div:hover .icon .arrow-bar:after {
-  border-top-color: rgb(91, 146, 55);
+  border-top-color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-2 .container .row div:hover .icon .arrow-bar:before {
-  border-top-color: rgb(91, 146, 55);
+  border-top-color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-2 .container .row div .icon {
   width: 95px;
@@ -2851,7 +2851,7 @@ html > body > .component-boxes-style-2 .container .row div .icon {
 html > body > .component-boxes-style-2 .container .row div .icon span {
   font-size: 3em;
   line-height: 95px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-2 .container .row div .icon .arrow-bar {
   margin-top: -2px;
@@ -2897,14 +2897,14 @@ html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > di
   margin-bottom: 20px;
 }
 html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > div:hover .icon {
-  background: rgb(91, 146, 55);
-  border-color: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > div:hover .icon span {
   color: #ffffff;
 }
 html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > div:hover .details h3 {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > div .icon {
   width: 80px;
@@ -2915,7 +2915,7 @@ html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > di
 }
 html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > div .icon span {
   line-height: 80px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-boxes-style-3 .container .content .row > .col-sm-6 > div .icon span:before {
   font-size: 2em;
@@ -2929,7 +2929,7 @@ html > body > .component-recent-posts {
   background-color: #f4f4f4;
 }
 html > body > .component-recent-posts .container .row > div:hover .image-posted img {
-  border-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-recent-posts .container .row > div .image-posted img {
   width: 100%;
@@ -2957,7 +2957,7 @@ html > body > .component-recent-posts .container .row > div .contain .post-data 
   display: inline-block;
 }
 html > body > .component-recent-posts .container .row > div .contain .post-data p:hover {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-recent-posts .container .row > div .contain .post-data p span {
   padding-right: 5px;
@@ -3028,7 +3028,7 @@ html > body > .component-contact-email-and-map > .relative .container .row form 
   color: #333333;
 }
 html > body > .component-contact-email-and-map > .relative .container .row form .exit-modal:hover {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-contact-email-and-map > .relative .container .row form button {
   box-shadow: none;
@@ -3060,13 +3060,13 @@ html > body > .component-contact-email-and-map > .relative .contain-button-see-m
 }
 html > body > .component-contact-email-and-map > .relative .contain-button-see-modal .button-see-modal {
   background: #ffffff;
-  color: rgb(91, 146, 55);
-  border: 1px solid rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
+  border: 1px solid rgb(255, 0, 0);
 }
 html > body > .component-contact-email-and-map > .relative .contain-button-see-modal .button-see-modal:hover {
   color: #ffffff;
   border-color: #ffffff;
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div div,
 html > body > .component-price-table .container .row > div a {
@@ -3082,13 +3082,13 @@ html > body > .component-price-table .container .row > div .talon {
   border: 1px solid rgb(19, 22, 93);
 }
 html > body > .component-price-table .container .row > div .talon:hover {
-  border-color: rgb(91, 146, 55)  z;
+  border-color: rgb(255, 0, 0)  z;
 }
 html > body > .component-price-table .container .row > div .talon:hover .price {
-  border-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon:hover .price .center {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon .price {
   width: 260px;
@@ -3100,10 +3100,10 @@ html > body > .component-price-table .container .row > div .talon .price {
   -moz-border-radius: 10%;
   -webkit-border-radius: 10%;
   background-color: #ffffff;
-  border: 1px solid rgb(91, 146, 55);
+  border: 1px solid rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon .price:hover {
-  border-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon .price .center {
   width: 100%;
@@ -3115,7 +3115,7 @@ html > body > .component-price-table .container .row > div .talon .price .center
     background-color: rgb(19, 22, 93);
 }
 html > body > .component-price-table .container .row > div .talon .price .center:hover {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon .price .center h3 {
   margin: 0;
@@ -3155,11 +3155,11 @@ html > body > .component-price-table .container .row > div .talon a.btn {
   padding: 10px 17px;
 }
 html > body > .component-price-table .container .row > div .talon.professional {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon.professional .price {
   position: relative;
-  border: 1px solid rgb(91, 146, 55);
+  border: 1px solid rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon.professional .price .badge {
   right: 0;
@@ -3171,15 +3171,15 @@ html > body > .component-price-table .container .row > div .talon.professional .
   font-size: 1.25em;
   line-height: 48px;
   position: absolute;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
   background-color: #ffffff;
-  border: 1px solid rgb(91, 146, 55);
+  border: 1px solid rgb(255, 0, 0);
   border-radius: 50%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
 }
 html > body > .component-price-table .container .row > div .talon.professional .price .center {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table .container .row > div .talon.professional .title-talon h2 {
   color: #ffffff;
@@ -3201,11 +3201,11 @@ html > body > .component-price-table-2 .container .row > div.talon {
   border: 1px solid rgba(0, 0, 0, 0.12);
 }
 html > body > .component-price-table-2 .container .row > div.talon:hover {
-  border-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table-2 .container .row > div.talon:hover .price {
-  border-color: rgb(91, 146, 55);
-  background-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table-2 .container .row > div.talon:hover .price .center h3,
 html > body > .component-price-table-2 .container .row > div.talon:hover .price .center p {
@@ -3268,13 +3268,13 @@ html > body > .component-price-table-2 .container .row > div.talon.professional 
   margin-top: 60px;
   padding-bottom: 10px;
   border-color: #ffffff;
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table-2 .container .row > div.talon.professional:hover .price {
   background-color: #ffffff;
 }
 html > body > .component-price-table-2 .container .row > div.talon.professional:hover .price .center {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table-2 .container .row > div.talon.professional:hover .price .center h3,
 html > body > .component-price-table-2 .container .row > div.talon.professional:hover .price .center p {
@@ -3282,11 +3282,11 @@ html > body > .component-price-table-2 .container .row > div.talon.professional:
 }
 html > body > .component-price-table-2 .container .row > div.talon.professional .price {
   margin-top: -50px;
-  border-color: rgb(91, 146, 55);
+  border-color: rgb(255, 0, 0);
 }
 html > body > .component-price-table-2 .container .row > div.talon.professional .price .center h3,
 html > body > .component-price-table-2 .container .row > div.talon.professional .price .center p {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-price-table-2 .container .row > div.talon.professional .title-talon h2 {
   color: #ffffff;
@@ -3314,13 +3314,13 @@ html > body > .component-separator-notification .parallax .container {
 html > body > .component-separator-notification .parallax .container ul li .social-icon {
   font-size: 5em;
   margin-bottom: 30px;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-separator-notification .parallax .container ul li .author {
   margin: 0;
   font-size: 1.1em;
   font-weight: 600;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-separator-notification .parallax .container ul li .quotation {
   margin: 20px;
@@ -3387,7 +3387,7 @@ html > body > .component-our-clients-row .container .carousel-inner .item .carou
   text-shadow: none;
 }
 html > body > .component-our-clients-row .container .carousel-inner .item .carousel-caption .description p span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-our-clients-row .container .carousel-inner .item .carousel-caption .description p.author {
   color: #7e7e7e;
@@ -3510,7 +3510,7 @@ html > body > .component-our-team-row .container .row > div .team-talon-row .soc
   line-height: 22px;
 }
 html > body > .component-our-team-row .container .row > div .team-talon-row:hover {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-our-team-row .container .row > div .team-talon-row:hover .photo-container {
   border: 10px solid #ffffff;
@@ -3519,7 +3519,7 @@ html > body > .component-our-team-row .container .row > div .team-talon-row:hove
   border-radius: 50%;
 }
 html > body > .component-our-team-row .container .row > div .team-talon-row:hover .photo-container img {
-  border: 2px solid rgb(91, 146, 55);
+  border: 2px solid rgb(255, 0, 0);
 }
 html > body > .component-our-team-row .container .row > div .team-talon-row:hover .name-and-occupation h3 {
   color: #ffffff;
@@ -3540,7 +3540,7 @@ html > body > .component-our-team-row .container .row > div .team-talon-row:hove
   display: block;
 }
 html > body > .component-our-team-row .container .row > div .team-talon-row:hover .social ul li a span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-separator-progress .container .row > div {
   text-align: center;
@@ -3549,7 +3549,7 @@ html > body > .component-separator-progress .container .row > div .progress-bar-
   width: 120px;
   padding: 10px 10px 5px 10px;
   margin: 0 auto;
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -3646,7 +3646,7 @@ html > body > .component-why-choose .container .row > div .description p {
   font-weight: 500;
 }
 html > body > .component-why-choose .container .row > div .description p span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-why-choose .container .row > div .right > div {
   margin-bottom: 20px;
@@ -3656,7 +3656,7 @@ html > body > .component-why-choose .container .row > div .right > div:last-chil
 }
 html > body > .component-why-choose .container .row > div .right > div:hover .icon,
 html > body > .component-why-choose .container .row > div .right > div:focus .icon {
-  background: rgb(91, 146, 55);
+  background: rgb(255, 0, 0);
 }
 html > body > .component-why-choose .container .row > div .right > div:hover .icon span,
 html > body > .component-why-choose .container .row > div .right > div:focus .icon span {
@@ -3664,7 +3664,7 @@ html > body > .component-why-choose .container .row > div .right > div:focus .ic
 }
 html > body > .component-why-choose .container .row > div .right > div:hover .details h3,
 html > body > .component-why-choose .container .row > div .right > div:focus .details h3 {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-why-choose .container .row > div .right > div .icon {
   float: left;
@@ -3672,11 +3672,11 @@ html > body > .component-why-choose .container .row > div .right > div .icon {
   height: 30px;
   margin-top: 3px;
   text-align: center;
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
   border-radius: 50%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
-  border: 1px solid rgb(91, 146, 55);
+  border: 1px solid rgb(255, 0, 0);
   -webkit-transition: 0.5s ease-in-out;
   -moz-transition: 0.5s ease-in-out;
   -o-transition: 0.5s ease-in-out;
@@ -3693,7 +3693,7 @@ html > body > .component-why-choose .container .row > div .right > div .details 
   text-align: left;
 }
 html > body > .component-why-choose .container .row > div .right > div .details h3 {
-  color:rgb(91, 146, 55);
+  color:rgb(255, 0, 0);
   font-size: 1.4em;
   font-weight: 600;
   margin: 0 0 5px 0;
@@ -3726,7 +3726,7 @@ html > body > .component-about-devices .container .row > div.contain-devices img
 html > body > .component-navigation {
   overflow: visible;
   background: #ffffff;
-  border-top: 2px solid rgb(91, 146, 55);
+  border-top: 2px solid rgb(255, 0, 0);
 }
 html > body > .component-navigation.fixed {
   top: 0;
@@ -3781,7 +3781,7 @@ html > body > .component-navigation .container .navbar .navbar-collapse .nav > l
 html > body > .component-navigation .container .navbar .navbar-collapse .navbar > li.active > a,
 html > body > .component-navigation .container .navbar .navbar-collapse .nav > li:hover > a,
 html > body > .component-navigation .container .navbar .navbar-collapse .navbar > li:hover > a {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-navigation .container .navbar .navbar-collapse .nav > li.dropdown.open,
 html > body > .component-navigation .container .navbar .navbar-collapse .navbar > li.dropdown.open {
@@ -3789,11 +3789,11 @@ html > body > .component-navigation .container .navbar .navbar-collapse .navbar 
   padding-top: 22px;
   background: #ffffff;
   padding-bottom: 18px;
-  border-bottom: 1px solid rgb(91, 146, 55);
+  border-bottom: 1px solid rgb(255, 0, 0);
 }
 html > body > .component-navigation .container .navbar .navbar-collapse .nav > li.dropdown.open > a,
 html > body > .component-navigation .container .navbar .navbar-collapse .navbar > li.dropdown.open > a {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-navigation .container .navbar .navbar-collapse .nav > li.dropdown.open > a span,
 html > body > .component-navigation .container .navbar .navbar-collapse .navbar > li.dropdown.open > a span {
@@ -3830,7 +3830,7 @@ html > body > .component-navigation .container .navbar .navbar-collapse .navbar 
 }
 html > body > .component-navigation .container .navbar .navbar-collapse .nav > li.dropdown .dropdown-menu li:hover a,
 html > body > .component-navigation .container .navbar .navbar-collapse .navbar > li.dropdown .dropdown-menu li:hover a {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-navigation .container .navbar .navbar-collapse .nav > li.dropdown .dropdown-menu li a,
 html > body > .component-navigation .container .navbar .navbar-collapse .navbar > li.dropdown .dropdown-menu li a {
@@ -3910,12 +3910,12 @@ html > body > .component-slider .carousel > .carousel-inner .item .carousel-capt
   margin: 50px 0 10px 0;
 }
 html > body > .component-slider .carousel > .carousel-inner .item .carousel-caption .contain .title h1 span {
-  text-shadow: 2px 2px rgb(91, 146, 55);
+  text-shadow: 2px 2px rgb(255, 0, 0);
   color: rgb(16, 21, 94);
 }
 html > body > .component-slider .carousel > .carousel-inner .item .carousel-caption .contain .description {
   color: rgb(16, 21, 94);
-  text-shadow: 1px 1px rgb(91, 146, 55);
+  text-shadow: 1px 1px rgb(255, 0, 0);
   font-size: 1.9em;
   font-weight: 600;
 }
@@ -3941,7 +3941,7 @@ html > body > .component-slider .carousel .glyphicon-chevron-right {
 }
 html > body > .component-slider .carousel .carousel-control:hover,
 html > body > .component-slider .carousel .carousel-control:focus {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-slider .carousel .carousel-control:hover span,
 html > body > .component-slider .carousel .carousel-control:focus span {
@@ -3950,7 +3950,7 @@ html > body > .component-slider .carousel .carousel-control:focus span {
 }
 html > body > .component-footer {
   background-color: #eeeeee;
-  border-top: 3px solid rgb(91, 146, 55);
+  border-top: 3px solid rgb(255, 0, 0);
 }
 html > body > .component-footer .container > .row > div.clearfix {
   margin-bottom: 0;
@@ -3964,7 +3964,7 @@ html > body > .component-footer .container > .row > div > p {
   margin-bottom: 20px;
 }
 html > body > .component-footer .container > .row > div > p a {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-footer .container > .row > div .title-widget {
   margin-bottom: 15px;
@@ -3986,7 +3986,7 @@ html > body > .component-footer .container > .row > div .hover-image {
   height: 100%;
   cursor: pointer;
   position: absolute;
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
   background-repeat: no-repeat;
   background-position: center center;
   background-image: url("../lib/image/_footer-image-icon-plus.png");
@@ -4035,7 +4035,7 @@ html > body > .component-footer .container > .row > div.contact-us ul li {
   margin-bottom: 5px;
 }
 html > body > .component-footer .container > .row > div.contact-us ul li:hover span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 html > body > .component-footer .container > .row > div.contact-us ul li span {
   font-weight: 500;
@@ -4076,11 +4076,11 @@ html > body > .component-slider .carousel .pattern-background .slider-social ul 
  color:rgb(19, 22, 93);
 }
 html > body > .component-slider .carousel .pattern-background .slider-social ul li:hover a i {
-  color: rgb(91, 146, 55); 
+  color: rgb(255, 0, 0); 
 }
 /* End Social Styles for the top slider on index.html */
 html > body > .component-footer .container > .row > div .follow-us ul li:hover {
-  background-color: rgb(91, 146, 55);
+  background-color: rgb(255, 0, 0);
 }
 html > body > .component-footer .container > .row > div .follow-us ul li:hover a {
   display: block;
@@ -4127,7 +4127,7 @@ html > body > .component-footer-bar .container .row > div p {
 }
 html > body > .component-footer-bar .container .row > div p a,
 html > body > .component-footer-bar .container .row > div p span {
-  color: rgb(91, 146, 55);
+  color: rgb(255, 0, 0);
 }
 @media (max-width: 1400px) {
   html > body > .component-portfolio .content-portfolio .portfolio-content .portfolio-list li {
@@ -4920,7 +4920,7 @@ html > body > .component-footer-bar .container .row > div p span {
     padding: 10px 30px;
   }
   html > body > .component-navigation.component-navigation {
-    border-bottom: 2px solid rgb(91, 146, 55);
+    border-bottom: 2px solid rgb(255, 0, 0);
   }
   html > body > .component-slider .carousel > .carousel-inner .item .carousel-caption .contain > img {
     width: 20%;
